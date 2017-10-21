@@ -6,6 +6,7 @@ public class Test {
 	}
 	
 	public boolean test(){
+		System.out.println();
 		return true;
 	}
 	
